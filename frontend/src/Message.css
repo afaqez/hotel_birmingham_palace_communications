@@ -1,0 +1,22 @@
+/* Message.css */
+.message {
+    width: 40%;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+  }
+  
+  .message-content {
+    margin-bottom: 15px;
+  }
+  
+  .clipboard-button {
+    padding: 10px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
